@@ -1,0 +1,5 @@
+---
+name: pegacorn-alpine-webserver
+version: 1.0.0-snapshot
+description: TEST Alpine Webserver -- TELNET function
+icon: img/icons/camel.svg
